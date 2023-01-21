@@ -41,5 +41,7 @@
   "mateAcademy": {
     "projectType": "layout"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fsevents": "^2.3.2"
+  }
 }
